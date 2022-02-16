@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes and selected bibliography on credit and responsibility
   in science.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/d56d73462fb1e80dda771ded51f3dcb8_5creditand.pdf
+file: /media/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/d56d73462fb1e80dda771ded51f3dcb8_5creditand.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Credit and Responsibility in Science
 uid: d56d7346-2fb1-e80d-da77-1ded51f3dcb8
