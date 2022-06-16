@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -47,9 +48,9 @@ Introduction to Research Skills
 Professional Ethics and Bias in Research Design; Lab Animals in Research
 {{< tdclose >}}
 {{< tdopen >}}
-"Getting Results" adapted by Stephanie J. Bird from “The Jenny Ito Case.” In Bebeau, M. J. and Pimple, K. D. _Moral Reasoning in Scientific Research Cases for Teaching and Assessment_, Indiana University, 1995. ([PDF]({{< baseurl >}}/resources/2agettingresults))  
+"Getting Results" adapted by Stephanie J. Bird from “The Jenny Ito Case.” In Bebeau, M. J. and Pimple, K. D. _Moral Reasoning in Scientific Research Cases for Teaching and Assessment_, Indiana University, 1995. ({{% resource_link 3ced1501-a77c-8de5-1269-d51bd7d7a61c "PDF" %}})  
   
-"Safety and Effectiveness of a Biomedical Implant" by Elizabeth R. Myers and Stephanie J. Bird. ([PDF]({{< baseurl >}}/resources/2bsafetyandeffecti))
+"Safety and Effectiveness of a Biomedical Implant" by Elizabeth R. Myers and Stephanie J. Bird. ({{% resource_link e455ad66-7e4b-a492-72fc-5546b26cee6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Professional Ethics and Bias in Research Design; Lab Animals in Research
 Study Design and Human Subjects in Research
 {{< tdclose >}}
 {{< tdopen >}}
-"The Coronary Artery By-pass Patient." ([PDF]({{< baseurl >}}/resources/3thecoronaryartery))
+"The Coronary Artery By-pass Patient." ({{% resource_link 3fde62c9-1996-512d-0fb8-3780ca37b660 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
