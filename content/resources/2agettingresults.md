@@ -5,6 +5,7 @@ file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-o
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Getting Results
 uid: 3ced1501-a77c-8de5-1269-d51bd7d7a61c
 ---
 Handout on professional ethics and bias in research design.
-

@@ -5,6 +5,7 @@ file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-o
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Safety and Effectiveness of a Biomedical Implant
 uid: e455ad66-7e4b-a492-72fc-5546b26cee6f
 ---
 Handout on safety and effectiveness of a biomedical implant.
-

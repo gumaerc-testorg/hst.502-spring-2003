@@ -5,6 +5,7 @@ file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-o
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'The Mentor '
 uid: 2516af8f-fb4a-c02a-23e3-c549edeafaaa
 ---
 Reading on credit and responsibility in science.
-

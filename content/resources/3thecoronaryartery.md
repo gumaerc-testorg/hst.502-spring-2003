@@ -5,6 +5,7 @@ file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-o
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Coronary Artery Bypass Patient
 uid: 3fde62c9-1996-512d-0fb8-3780ca37b660
 ---
 Handout on study design and human subjects in research.
-

@@ -5,6 +5,7 @@ file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-o
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Literature Review and Preparing Proposals and Manuscripts
 uid: 0588ccf6-4d13-c810-4e44-8e0cd9464b75
 ---
 Lecture notes on preparing proposals and manuscripts.
-

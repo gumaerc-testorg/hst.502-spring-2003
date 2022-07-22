@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Typical Process in Research.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Typical Process in Research (thumbnail)
 uid: 27c2b319-cfd0-f442-d40e-afcedbff7765
 ---
 Cropped section of a medical research process flow diagram. (Image by Prof. Elizabeth R. Myers.)
-

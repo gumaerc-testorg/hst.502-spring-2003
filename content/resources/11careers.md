@@ -5,6 +5,7 @@ file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-o
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pathways to a Career in Science and Engineering
 uid: 3944db8b-a01e-7ae3-552f-df51ddc84548
 ---
 Lecture notes on pathways to a career in science and engineering.
-
