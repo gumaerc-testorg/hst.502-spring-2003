@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on peer review of scholarly articles.
 file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/846a03f0984a3f988d1cbaaafaa507c0_7handoutpeerreview.pdf
+file_size: 310337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

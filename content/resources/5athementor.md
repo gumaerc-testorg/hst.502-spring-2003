@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading on credit and responsibility in science.
 file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/2516af8ffb4ac02a23e3c549edeafaaa_5athementor.pdf
+file_size: 40597
 file_type: application/pdf
 learning_resource_types:
 - Readings
