@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout on professional ethics and bias in research design.
 file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/3ced1501a77c8de51269d51bd7d7a61c_2agettingresults.pdf
+file_size: 231968
 file_type: application/pdf
 learning_resource_types:
 - Readings

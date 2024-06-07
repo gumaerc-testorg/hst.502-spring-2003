@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the use of human subjects in research.
 file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/16cfca159bc4df30c044028accb82a11_3ahumansubhandout.pdf
+file_size: 213098
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
