@@ -2,7 +2,7 @@
 content_type: resource
 description: Cropped section of a medical research process flow diagram. (Image by
   Prof. Elizabeth R. Myers.)
-file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/27c2b319cfd0f442d40eafcedbff7765_hst-502s03-th.jpg
+file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/27c2b319cfd0f442d40eafcedbff7765_hst-502s03-th.jpg
 file_size: 8013
 file_type: image/jpeg
 image_metadata:
