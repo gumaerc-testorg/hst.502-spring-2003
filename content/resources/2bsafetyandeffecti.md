@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on safety and effectiveness of a biomedical implant.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/e455ad667e4ba49272fc5546b26cee6f_2bsafetyandeffecti.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/e455ad667e4ba49272fc5546b26cee6f_2bsafetyandeffecti.pdf
 file_size: 191082
 file_type: application/pdf
 learning_resource_types:

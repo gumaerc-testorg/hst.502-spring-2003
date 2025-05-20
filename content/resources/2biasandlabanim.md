@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on bias in research and the responsible use of laboratory
   animals.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/12f9f873c0b75f326200cfa42cc50f21_2Biasandlabanim.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/12f9f873c0b75f326200cfa42cc50f21_2Biasandlabanim.pdf
 file_size: 195016
 file_type: application/pdf
 learning_resource_types:

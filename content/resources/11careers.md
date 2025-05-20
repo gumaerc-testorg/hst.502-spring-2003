@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on pathways to a career in science and engineering.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/3944db8ba01e7ae3552fdf51ddc84548_11careers.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/3944db8ba01e7ae3552fdf51ddc84548_11careers.pdf
 file_size: 741971
 file_type: application/pdf
 learning_resource_types:
