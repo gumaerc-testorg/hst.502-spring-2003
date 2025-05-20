@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Checklist for a peer review assignment.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/20c975d9afc6233ea4a399f5c32b893d_7reviewchecklist.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/20c975d9afc6233ea4a399f5c32b893d_7reviewchecklist.pdf
 file_size: 192025
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes and a selected bibliography on scientific misconduct.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/9d15b943dd48c6dc21e124053a3d63e1_8allegationsofScie.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/9d15b943dd48c6dc21e124053a3d63e1_8allegationsofScie.pdf
 file_size: 204224
 file_type: application/pdf
 learning_resource_types:
