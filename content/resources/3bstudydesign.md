@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the design of research studies.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/596f7b98617fea1b23dfbaa0cddee9f8_3bstudydesign.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/596f7b98617fea1b23dfbaa0cddee9f8_3bstudydesign.pdf
 file_size: 238687
 file_type: application/pdf
 learning_resource_types:

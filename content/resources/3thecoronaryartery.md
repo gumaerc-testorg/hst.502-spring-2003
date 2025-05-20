@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on study design and human subjects in research.
-file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/3fde62c91996512d0fb83780ca37b660_3thecoronaryartery.pdf
+file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/3fde62c91996512d0fb83780ca37b660_3thecoronaryartery.pdf
 file_size: 183456
 file_type: application/pdf
 learning_resource_types:
