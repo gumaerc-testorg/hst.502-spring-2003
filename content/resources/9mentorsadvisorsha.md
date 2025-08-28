@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the role of advisers and mentors.
-file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/5c6515913fe546ae73e260640e234f66_9mentorsadvisorsha.pdf
+file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/5c6515913fe546ae73e260640e234f66_9mentorsadvisorsha.pdf
 file_size: 253135
 file_type: application/pdf
 learning_resource_types:

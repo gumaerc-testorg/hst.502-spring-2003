@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Medical research process flow diagram. (Image by Prof. Elizabeth R. Myers.)
-file: /courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/7ec1dd91c89288a6376a50a01385c7d4_chp_med_research_process.jpg
+file: /ol-ocw-studio-app/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/7ec1dd91c89288a6376a50a01385c7d4_chp_med_research_process.jpg
 file_size: 89877
 file_type: image/jpeg
 image_metadata:
